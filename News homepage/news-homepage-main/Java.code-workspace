@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "Java",
+			"path": "../../../Java"
+		},
+		{
+			"name": "Website design",
+			"path": "../../../Website design"
+		},
+		{
+			"name": "Projects",
+			"path": "../../../Projects"
+		},
+		{
+			"name": "Bootstrap Practice",
+			"path": "../../../Bootstrap Practice"
+		},
+		{
+			"name": "bootstrap-5.3.0-dist",
+			"path": "../../../Projects/bootstrap-5.3.0-dist"
+		},
+		{
+			"path": "../../../Image Detection Project"
+		},
+		{
+			"path": "../../../../Documents/results-summary-component-main"
+		},
+		{
+			"path": "../../nodejs practice"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New homepage"
+	}
+}
